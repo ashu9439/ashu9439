@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ashu9439
-- 👀 I’m interested in ... python , machine learning , java , c , c++ , deep learning , LAMP , MEAN , MERN 
+- 👀 I’m interested in ... python , machine learning , javascript, golang , deep learning , MEAN , MERN , react
 - 🌱 I’m currently learning ... 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... ashutosh.majhi15@gmail.com , 8327726850 
